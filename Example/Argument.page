@@ -1,5 +1,5 @@
-This is an argument which supports taking the option.
+<p>This is an argument which supports taking the option.</p>
 
-|type|
-|-|
-|argument|
+|type|support|
+|-|-|
+|argument|true|
