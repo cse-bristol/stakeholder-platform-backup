@@ -1,0 +1,11 @@
+This is a process. We are assessing its chances of success of failure.
+
+|type|dependence|
+|-|-|
+|process|1|
+
+
+|child|necessity|sufficiency|
+|-|-|-|
+|[/Example/Issue]()|||
+|[/Example/Child Process]()|0.5|0.5|
