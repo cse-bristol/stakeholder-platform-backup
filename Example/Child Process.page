@@ -1,0 +1,5 @@
+A child process which contributes to the success or failure of its parent.
+
+|type|dependence|
+|-|-|
+|process|1|
