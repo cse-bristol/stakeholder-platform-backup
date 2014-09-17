@@ -10,7 +10,7 @@ Make a process model using the tool, and save it. You will now have created some
 
 Now, inside the process modelling tool, search for your masterplan page and click on the 'embed' button when you find it.
 
-You may also wish to include a link to the root process itself, in this case [/Example/Process]().
+You may also wish to include a link to the root process itself, in this case [Example/Process]().
 
 [Process Example/Process](http://wiki.smartsteep.eu/process-model/index.html?wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&root=Example%252FProcess)
 
