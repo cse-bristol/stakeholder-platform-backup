@@ -1,0 +1,15 @@
+
+
+|layer|opacity|
+|-|-|
+|[layers/Technically_unconstrained_wind_resource_c2MW_2009.geojson]()|0.9|
+
+
+|sort|reverse|
+|-|-|
+|Windspeed1|true|
+
+
+|selection page|
+|-|
+|[Example/Sort by Windspeed/selection]()|
