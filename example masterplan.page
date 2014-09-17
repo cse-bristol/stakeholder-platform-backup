@@ -16,4 +16,15 @@ You may also wish to include a link to the root process itself, in this case [Ex
 
 <iframe width="100%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/process-model/index.html?wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&root=Example%252FProcess"></iframe>
 
+Note that each time you click embed you get the map again. If you do this you can just edit the page and delete the offending iframe.
+
 # Map
+Lastly, we'll [make a map](/open-data-map/index.html);
+
+ 1. Drag your data onto the map. 
+ 2. Select the areas you are interested in. 
+ 3. Click on table headers to sort and colour by a property. 
+ 4. Give your map a title.
+ 5. Click save.
+
+Then search for your masterplan page and click the 'embed' button as before to add the map to your plan.
