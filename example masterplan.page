@@ -9,3 +9,7 @@ Next go to the [process modelling tool](/process-model/index.html).
 Make a process model using the tool, and save it. You will now have created some process nodes in the wiki, which you can open and look at (you may also wish to put in a link to them).
 
 Now, inside the process modelling tool, search for your masterplan page and click on the 'embed' button when you find it.
+
+[Process Example/Process](http://wiki.smartsteep.eu/process-model/index.html?wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&root=Example%252FProcess)
+
+<iframe width="640px" height="480px" src="http://wiki.smartsteep.eu/process-model/index.html?wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&root=Example%252FProcess"></iframe>
