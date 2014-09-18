@@ -35,3 +35,14 @@ Then search for your masterplan page and click the 'embed' button as before to a
 [Example/Sort by Windspeed](http://wiki.smartsteep.eu/open-data-map/index.html?zoom=13&lat=51.5101313734882&lng=-2.622556686401367&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Example%252FSort%2520by%2520Windspeed)
 
 <iframe width="100%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?zoom=13&lat=51.5101313734882&lng=-2.622556686401367&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Example%252FSort%2520by%2520Windspeed"></iframe>
+
+# And here's the start of a new bit
+
+## new bit subheader
+
+here's another map
+link:
+[Example/Sort by Windspeed](http://wiki.smartsteep.eu/open-data-map/index.html?zoom=13&lat=51.5101313734882&lng=-2.622556686401367&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Example%252FSort%2520by%2520Windspeed)
+
+embed:
+<iframe width="75%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?zoom=13&lat=51.5101313734882&lng=-2.622556686401367&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Example%252FSort%2520by%2520Windspeed"></iframe>
