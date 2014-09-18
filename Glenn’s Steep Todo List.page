@@ -1,0 +1,65 @@
+This is more or less in impact order. High up things have high priority / difficulty. Some things are at the end because they depend on Mediawiki move.
+
+They need to be organised better.
+
+# Layer search
+Add a + button to the layers control. This should offer the option to search the wiki for layers which have previously been used in any map.
+
+# Bad unicode
+The following unicode symbols don't work on Windows and need replacing:
+ + Close handle for floating things
+ + Resize handle for floating things
+ + Delete layer
+
+# Rename National Heat Map
+English National Heat Map
+
+# 'No Errors'
+The errors/messages box should tell you when there aren't any errors or messages.
+
+It should also show itself when you cause an error to happen.
+
+# Move layer select to layer control
+Remove layer-select.js and make certain layers in the layer control have on-click behaviour which focuses and zooms them.
+
+# Hide/show layers bug
+After you uncheck a layer's check box to hide it, you can't show it again. Fix this.
+
+# Back button behaviour
+The map and process model both make history states as soon as they are loaded. This means you have to double-tab the back button to ever get out of them. Stop this.
+
+# Icon alignment
+Some of the icons in the map toolbar are a little too far to the left.
+
+# Disable scroll zoom over iframe
+It's annoying when you're scrolling through an iframe and then you accidentally zoom the process model or map instead.
+
+# Layer control permanence
+Put an icon for the layer control in the toolbar, and make it a thing that appears on click rather than on hover.
+
+# Disable double-click zoom
+It's annoying. No-one cares about mobile anyway.
+
+# Adding a link to process model broken
+
+# Store layout of process model
+Put it in a modelname/layout
+
+# Search for pages
+This currently searches in the text. It should also include page names. If possible, it shouldn't let you load the wrong kinds of things, but that might be harder.
+
+Might be worth moving this after the Mediawiki port? Depends how easy it is.
+
+# Port save/load to Mediawiki
+We think the Semantic Mediawiki features are worth having, so we've decided to use that rather than Gitit as our final platform.
+
+# Update embedded
+If we're editing in an iframe, or maybe if we just came from a document which had this map or process model embedded in it, the save button should be replaced with an update embedded button.
+
+# Export as document
+Check if this exists in Mediawiki.
+
+Come up with a way to export the iframes (render them and turn them into a picture).
+
+# Tooltips
+Put these on all the icons
