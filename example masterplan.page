@@ -1,8 +1,6 @@
-# How to make a masterplan
+# Exposition
 
-Make a new page in the wiki by visiting one which does exist, like [/page which does not exist](). Then click the 'create' link.
-
-This will take you to the editor, where you can write some structured text (explained in the box on the left), and get some HTML out.
+We'll write some text describing the purpose of our plan here.
 
 # Process Model
 
@@ -13,6 +11,10 @@ Make a process model using the tool, and save it. You will now have created some
 Now, inside the process modelling tool, search for your masterplan page and click on the 'embed' button when you find it.
 
 You may also wish to include a link to the root process itself, in this case [Example/Process]().
+
+[Process Example/Process](http://wiki.smartsteep.eu/process-model/index.html?wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&root=Example%252FProcess)
+
+<iframe width="100%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/process-model/index.html?wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&root=Example%252FProcess"></iframe>
 
 Note that each time you click embed you get the map again. If you do this you can just edit the page and delete the offending iframe.
 
@@ -25,25 +27,4 @@ Lastly, we'll [make a map](/open-data-map/index.html);
  4. Give your map a title.
  5. Click save.
 
-
-[Process Example/Process](http://wiki.smartsteep.eu/process-model/index.html?wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&root=Example%252FProcess)
-
-<iframe width="100%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/process-model/index.html?wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&root=Example%252FProcess"></iframe>
-
 Then search for your masterplan page and click the 'embed' button as before to add the map to your plan.
-
-[Example/Sort by Windspeed](http://wiki.smartsteep.eu/open-data-map/index.html?zoom=13&lat=51.5101313734882&lng=-2.622556686401367&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Example%252FSort%2520by%2520Windspeed)
-
-<iframe width="100%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?zoom=13&lat=51.5101313734882&lng=-2.622556686401367&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Example%252FSort%2520by%2520Windspeed"></iframe>
-
-# And here's the start of a new bit
-
-## new bit subheader
-
-here's another map
-link:
-[Example/Sort by Windspeed](http://wiki.smartsteep.eu/open-data-map/index.html?zoom=13&lat=51.5101313734882&lng=-2.622556686401367&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Example%252FSort%2520by%2520Windspeed)
-
-embed:
-
-<iframe width="75%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?zoom=13&lat=51.5101313734882&lng=-2.622556686401367&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Example%252FSort%2520by%2520Windspeed"></iframe>
