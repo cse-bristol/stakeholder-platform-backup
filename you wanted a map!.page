@@ -1,0 +1,13 @@
+
+
+|layer|opacity|
+|-|-|
+|[layers/Land_unconstrained_for_energy_crops.geojson]()|0.9|
+
+
+
+|selection|
+|-|
+|Land_unconstrained_for_energy_crops/GRADE_1|
+|Land_unconstrained_for_energy_crops/GRADE_2|
+|Land_unconstrained_for_energy_crops/GRADE_3|
