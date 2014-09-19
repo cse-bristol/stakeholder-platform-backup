@@ -17,6 +17,13 @@ The errors/messages box should tell you when there aren't any errors or messages
 It should also show itself when you cause an error to happen.
 </s>
 
+# Maps and Process Models go in Folders
+<s>
+Put maps in maps/ folder
+
+Put nodes in models/ folder
+</s>
+
 # Move layer select to layer control
 <s>Remove layer-select.js and make certain layers in the layer control have on-click behaviour which focuses and zooms them.</s>
 
