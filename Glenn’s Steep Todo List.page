@@ -30,6 +30,9 @@ Put nodes in models/ folder
 # Selecting a layer in the layers control
 <s>Zooms but doesn't select.</s>
 
+# Layers Control Multiple Entries
+Should never happen.
+
 # Links in node description
 <s>When you add these, they shouldn't be editable.</s>
 
