@@ -16,7 +16,7 @@ The errors/messages box should tell you when there aren't any errors or messages
 It should also show itself when you cause an error to happen.
 
 # Move layer select to layer control
-Remove layer-select.js and make certain layers in the layer control have on-click behaviour which focuses and zooms them.
+<s>Remove layer-select.js and make certain layers in the layer control have on-click behaviour which focuses and zooms them.</s>
 
 # Hide the wiki url
 It's always the same, so don't allow people to change it.
