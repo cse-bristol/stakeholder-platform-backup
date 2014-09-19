@@ -6,9 +6,9 @@ They need to be organised better.
 <s>The following unicode symbols don't work on Windows and need replacing:
  + Close handle for floating things
  + Resize handle for floating things
- + Delete layer</s>
+ + Delete layer
 
-Retest on Windows
+Retest on Windows</s>
 
 # 'No Errors'
 The errors/messages box should tell you when there aren't any errors or messages.
