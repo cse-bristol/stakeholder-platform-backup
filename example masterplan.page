@@ -60,4 +60,4 @@ embed:
 
 [Example/Sort by Windspeed](http://wiki.smartsteep.eu/open-data-map/index.html?zoom=12&lat=51.47101189658926&lng=-2.6042747497558594&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Example%252FSort%2520by%2520Windspeed)
 
-<iframe width="50%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?zoom=12&lat=51.47101189658926&lng=-2.6042747497558594&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Example%252FSort%2520by%2520Windspeed"></iframe>
+<iframe width="20%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?zoom=12&lat=51.47101189658926&lng=-2.6042747497558594&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Example%252FSort%2520by%2520Windspeed"></iframe>
