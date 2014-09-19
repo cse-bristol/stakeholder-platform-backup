@@ -22,7 +22,10 @@ Despite all this variation, through the STEEP project and our previous experienc
 
 Based on this, we have developed a prototype for a flexible application which enables people, using only a web browser, to do create and collaboratively edit a publicly accessible document (a [wiki](https://en.wikipedia.org/wiki/Wiki)). However in addition to the usual wiki content of text, images, etc. the application also allows people, to:
 
-- create, embed and share maps including user data, for any location and scale (a GIS)
+- create, embed and share maps including user data, for any location and scale (a GIS), for example: [Unconstrained wind around Bristol](http://wiki.smartsteep.eu/open-data-map/index.html?zoom=14&lat=51.5211610577067&lng=-2.655472755432129&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Unconstrained%2520wind%2520around%2520Bristol)
+
+<iframe width="70%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?zoom=14&lat=51.5211610577067&lng=-2.655472755432129&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Unconstrained%2520wind%2520around%2520Bristol"></iframe>
+
 - create, embed and share visualisations of complex processes (a Hierarchical Process Modelling tool)
 - make links within their document, and to external resources
 
@@ -48,11 +51,5 @@ Based on this, we have developed a prototype for a flexible application which en
 - making a process model
 - embedding the process model in the document
 
-[Unconstrained wind around Bristol](http://wiki.smartsteep.eu/open-data-map/index.html?zoom=12&lat=51.47058417588218&lng=-2.6166343688964844&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Unconstrained%2520wind%2520around%2520Bristol)
 
-<iframe style="display:inline;" width="40%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?zoom=12&lat=51.47058417588218&lng=-2.6166343688964844&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Unconstrained%2520wind%2520around%2520Bristol"></iframe>
-<iframe style="display:inline;" width="40%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?zoom=12&lat=51.47058417588218&lng=-2.6166343688964844&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Unconstrained%2520wind%2520around%2520Bristol"></iframe>
 
-[Unconstrained wind around Bristol](http://wiki.smartsteep.eu/open-data-map/index.html?zoom=14&lat=51.5211610577067&lng=-2.655472755432129&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Unconstrained%2520wind%2520around%2520Bristol)
-
-<iframe width="100%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?zoom=14&lat=51.5211610577067&lng=-2.655472755432129&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Unconstrained%2520wind%2520around%2520Bristol"></iframe>
