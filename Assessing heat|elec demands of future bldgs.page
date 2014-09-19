@@ -1,0 +1,11 @@
+Write about this node here.
+
+|type|dependence|
+|-|-|
+|process|0|
+
+
+|child|necessity|sufficiency|
+|-|-|-|
+|[/Using benchmarks based on floor area, bldg use]()|0.3|0.4|
+|[/Predicting BRegs 
