@@ -3,13 +3,12 @@ This is more or less in impact order. High up things have high priority / diffic
 They need to be organised better.
 
 # Bad unicode
-The following unicode symbols don't work on Windows and need replacing:
+<s>The following unicode symbols don't work on Windows and need replacing:
  + Close handle for floating things
  + Resize handle for floating things
- + Delete layer
+ + Delete layer</s>
 
-# Rename National Heat Map
-English National Heat Map
+Retest on Windows
 
 # 'No Errors'
 The errors/messages box should tell you when there aren't any errors or messages.
