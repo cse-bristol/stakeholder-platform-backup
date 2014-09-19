@@ -11,9 +11,11 @@ They need to be organised better.
 Retest on Windows</s>
 
 # 'No Errors'
+<s>
 The errors/messages box should tell you when there aren't any errors or messages.
 
 It should also show itself when you cause an error to happen.
+</s>
 
 # Move layer select to layer control
 <s>Remove layer-select.js and make certain layers in the layer control have on-click behaviour which focuses and zooms them.</s>
