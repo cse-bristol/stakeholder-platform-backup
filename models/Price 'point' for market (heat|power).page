@@ -1,0 +1,11 @@
+Write about this node here.
+
+|type|dependence|
+|-|-|
+|process|0|
+
+
+|child|necessity|sufficiency|
+|-|-|-|
+|[/Demonstrating reliability, QA, control etc ]()|0.3|0.4|
+|[/Price 'point' for market (heat|power)/evidence]()|0.5|0.5|
