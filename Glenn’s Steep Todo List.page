@@ -27,6 +27,9 @@ Put maps in maps/ folder
 Put nodes in models/ folder
 </s>
 
+# Links in node description
+<s>When you add these, they shouldn't be editable.</s>
+
 # Move layer select to layer control
 <s>Remove layer-select.js and make certain layers in the layer control have on-click behaviour which focuses and zooms them.</s>
 
