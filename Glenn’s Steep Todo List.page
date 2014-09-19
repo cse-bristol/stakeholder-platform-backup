@@ -70,6 +70,9 @@ Do this using semantic search
 ## For layers that go into this map
 Add a + button to the layers control. This should offer the option to search the wiki for layers which have previously been used in any map.
 
+# Relayout process model button
+Discard the entire manual layout
+
 # Port save/load to Mediawiki
 We think the Semantic Mediawiki features are worth having, so we've decided to use that rather than Gitit as our final platform.
 
