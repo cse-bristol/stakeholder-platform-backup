@@ -1,0 +1,17 @@
+
+
+|layer|opacity|
+|-|-|
+|[layers/Bristol_Subs_Using_WGS_1984.geojson]()|0.9|
+|[layers/All_Phases.geojson]()|0.9|
+|[layers/Technically_unconstrained_wind_resource_c2MW_2009.geojson]()|0.9|
+
+
+|sort|reverse|
+|-|-|
+|Windspeed8|true|
+
+
+|selection page|
+|-|
+|[/maps/My Energy Masterplan/selection]()|
