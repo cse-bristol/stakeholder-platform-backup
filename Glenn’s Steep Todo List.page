@@ -27,6 +27,9 @@ Put maps in maps/ folder
 Put nodes in models/ folder
 </s>
 
+# Selecting a layer in the layers control
+<s>Zooms but doesn't select.</s>
+
 # Links in node description
 <s>When you add these, they shouldn't be editable.</s>
 
