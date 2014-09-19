@@ -9,5 +9,5 @@ A collaborative document editor which allows the creation of some special types 
 
 This editor is designed to be highly accessible - it is web based, and requires no specialist software on the part of the user. It is basically a wiki, but with the above special features. Here's how wikipedia defines a [wiki](https://en.wikipedia.org/wiki/Wiki):
 
->A wiki is a web application which allows people to add, modify, or delete content in collaboration with others. In a typical wiki, text is written using a simplified markup language (known as "wiki markup") or a rich-text editor.[1][2] While a wiki is a type of content management system, it differs from a blog or most other such systems in that the content is created without any defined owner or leader, and wikis have little implicit structure, allowing structure to emerge according to the needs of the users.
+>A wiki is a web application which allows people to add, modify, or delete content in collaboration with others. In a typical wiki, text is written using a simplified markup language (known as "wiki markup") or a rich-text editor... wikis have little implicit structure, allowing structure to emerge according to the needs of the users.
 
