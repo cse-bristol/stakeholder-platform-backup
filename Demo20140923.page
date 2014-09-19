@@ -22,14 +22,13 @@ Despite all this variation, through the STEEP project and our previous experienc
 
 Based on this, we have developed a prototype for a flexible application which enables people, using only a web browser, to do create and collaboratively edit a publicly accessible document (a [wiki](https://en.wikipedia.org/wiki/Wiki)). However in addition to the usual wiki content of text, images, etc. the application also allows people, to:
 
-- create, embed and share maps including user data, for any location and scale (a GIS), for example: [Unconstrained wind around Bristol](http://wiki.smartsteep.eu/open-data-map/index.html?zoom=14&lat=51.5211610577067&lng=-2.655472755432129&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Unconstrained%2520wind%2520around%2520Bristol)
+- create, embed and share maps including user data, for any location and scale (a GIS), for example: 
 
-<iframe width="70%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?zoom=14&lat=51.5211610577067&lng=-2.655472755432129&base=Open%2520Street%2520Map&wiki=http%253A%252F%252Fwiki.smartsteep.eu%252F&page=Unconstrained%2520wind%2520around%2520Bristol"></iframe>
+- create, embed and share visualisations of complex processes (a Hierarchical Process Modelling tool), for example:
 
-- create, embed and share visualisations of complex processes (a Hierarchical Process Modelling tool)
-- make links within their document, and to external resources
+- make links within their document, and to external resources, for example:
 
-## Some examples...
+## Some further examples...
 
 - WP 1.4 data harmonisation
 - WP 2.1 process modelling
