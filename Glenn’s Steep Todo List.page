@@ -2,9 +2,6 @@ This is more or less in impact order. High up things have high priority / diffic
 
 They need to be organised better.
 
-# Layer search
-Add a + button to the layers control. This should offer the option to search the wiki for layers which have previously been used in any map.
-
 # Bad unicode
 The following unicode symbols don't work on Windows and need replacing:
  + Close handle for floating things
@@ -21,6 +18,13 @@ It should also show itself when you cause an error to happen.
 
 # Move layer select to layer control
 Remove layer-select.js and make certain layers in the layer control have on-click behaviour which focuses and zooms them.
+
+# Hide the wiki url
+It's always the same, so don't allow people to change it.
+
+Move the save button over by the title bar by default.
+
+Provide a link to get back to the wiki. Do we want to get to a particular page?
 
 # Hide/show layers bug
 After you uncheck a layer's check box to hide it, you can't show it again. Fix this.
@@ -45,10 +49,20 @@ It's annoying. No-one cares about mobile anyway.
 # Store layout of process model
 Put it in a modelname/layout
 
-# Search for pages
+# Search 
+
+## For pages
 This currently searches in the text. It should also include page names. If possible, it shouldn't let you load the wrong kinds of things, but that might be harder.
 
 Might be worth moving this after the Mediawiki port? Depends how easy it is.
+
+## For maps or process models
+Do this using semantic search
+
+## For pages this map is embedded into
+
+## For layers that go into this map
+Add a + button to the layers control. This should offer the option to search the wiki for layers which have previously been used in any map.
 
 # Port save/load to Mediawiki
 We think the Semantic Mediawiki features are worth having, so we've decided to use that rather than Gitit as our final platform.
@@ -56,10 +70,29 @@ We think the Semantic Mediawiki features are worth having, so we've decided to u
 # Update embedded
 If we're editing in an iframe, or maybe if we just came from a document which had this map or process model embedded in it, the save button should be replaced with an update embedded button.
 
+The wiki should have a way to search for and embed maps.
+
+Maybe also have a save copy button?
+
+# Selection Save
+This currently has too options: embedded selection or in a separate document. Pick only one so that it doesn't get confused.
+
 # Export as document
 Check if this exists in Mediawiki.
 
 Come up with a way to export the iframes (render them and turn them into a picture).
+
+# Colours
+Each layer could have a colour picker box.
+
+# Tables and Selection
+Make a table per layer with a show/hide table button in the layers control.
+
+Give each table a checkbox for show all / show selected.
+
+Think about whether to disallow selection across multiple layers at the same time.
+
+Put in a search/filter for selecting objects within a layer.
 
 # Tooltips
 Put these on all the icons
