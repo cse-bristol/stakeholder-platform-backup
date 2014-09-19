@@ -11,3 +11,14 @@ This editor is designed to be highly accessible - it is web based, and requires 
 
 >A wiki is a web application which allows people to add, modify, or delete content in collaboration with others. In a typical wiki, text is written using a simplified markup language (known as "wiki markup") or a rich-text editor... wikis have little implicit structure, allowing structure to emerge according to the needs of the users.
 
+## Why have we made this tool?
+
+CSE has designed and built this prototype as part of our contribution to the STEEP project. STEEP work package 2 envisages the development of a web-based GIS system for sharing energy masterplan related content. This platform meets that need, but goes further in some important ways, by allowing users to:
+
+- upload and share map data with all other users
+- build and share hierarchical process models with all other users
+- link relate maps, process models, text, and external resource
+- integrate all of the above in a collaboratively editable living document
+
+
+
