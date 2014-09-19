@@ -19,11 +19,11 @@ It should also show itself when you cause an error to happen.
 <s>Remove layer-select.js and make certain layers in the layer control have on-click behaviour which focuses and zooms them.</s>
 
 # Hide the wiki url
-It's always the same, so don't allow people to change it.
+<s>It's always the same, so don't allow people to change it.
 
 Move the save button over by the title bar by default.
 
-Provide a link to get back to the wiki. Do we want to get to a particular page?
+Provide a link to get back to the wiki. Do we want to get to a particular page?</s>
 
 # Hide/show layers bug
 After you uncheck a layer's check box to hide it, you can't show it again. Fix this.
