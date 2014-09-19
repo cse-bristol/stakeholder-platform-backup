@@ -22,7 +22,8 @@ Despite all this variation, through the STEEP project and our previous experienc
 
 Based on this, we have developed a prototype for a flexible application which enables people, using only a web browser, to do create and collaboratively edit a publicly accessible document (a [wiki](https://en.wikipedia.org/wiki/Wiki)). However in addition to the usual wiki content of text, images, etc. the application also allows people, to:
 
-- create, embed and share maps including user data, for any location and scale (a GIS), for example: 
+- create, embed and share maps including user data, for any location and scale (a GIS), for example:
+
 [Map of Bristol unconstrained wind](http://wiki.smartsteep.eu/open-data-map/index.html?zoom=13&lat=51.50836851299987&lng=-2.6356029510498047&base=Open%2520Street%2520Map&page=maps%252FBristol%2520unconstrained%2520wind)
 
 <iframe width="70%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?zoom=13&lat=51.50836851299987&lng=-2.6356029510498047&base=Open%2520Street%2520Map&page=maps%252FBristol%2520unconstrained%2520wind"></iframe>
