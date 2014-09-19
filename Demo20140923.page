@@ -19,7 +19,7 @@ Despite all this variation, through the STEEP project and our previous experienc
 
 ## What is the tool?
 
-Based on this, we have developed a prototype for an application which enable people to use a web browser to do create and collaboratively edit a publicly accessible document (a [wiki](https://en.wikipedia.org/wiki/Wiki)). However in addition to the usual wiki content of text, images, etc. the application also allows people, to:
+Based on this, we have developed a prototype for a flexible application which enables people, using only a web browser, to do create and collaboratively edit a publicly accessible document (a [wiki](https://en.wikipedia.org/wiki/Wiki)). However in addition to the usual wiki content of text, images, etc. the application also allows people, to:
 
 - create, embed and share maps including user data, for any location and scale (a GIS)
 - create, embed and share visualisations of complex processes (a Hierarchical Process Modelling tool)
