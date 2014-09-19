@@ -32,7 +32,9 @@ After you uncheck a layer's check box to hide it, you can't show it again. Fix t
 The map and process model both make history states as soon as they are loaded. This means you have to double-tab the back button to ever get out of them. Stop this.
 
 # Icon alignment
-Some of the icons in the map toolbar are a little too far to the left.
+<s>Some of the icons in the map toolbar are a little too far to the left.</s>
+
+Retest on Windows
 
 # Disable scroll zoom over iframe
 It's annoying when you're scrolling through an iframe and then you accidentally zoom the process model or map instead.
