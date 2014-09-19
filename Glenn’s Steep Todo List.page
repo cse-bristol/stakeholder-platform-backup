@@ -52,7 +52,7 @@ It's annoying when you're scrolling through an iframe and then you accidentally 
 Put an icon for the layer control in the toolbar, and make it a thing that appears on click rather than on hover.
 
 # Disable double-click zoom
-It's annoying. No-one cares about mobile anyway.
+<s>It's annoying. No-one cares about mobile anyway.</s>
 
 # Persist map pan, zoom
 Move this out of the URL and into the wiki page
