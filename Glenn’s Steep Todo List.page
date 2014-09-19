@@ -45,6 +45,9 @@ Put an icon for the layer control in the toolbar, and make it a thing that appea
 # Disable double-click zoom
 It's annoying. No-one cares about mobile anyway.
 
+# Persist map pan, zoom
+Move this out of the URL and into the wiki page
+
 # Adding a link to process model broken
 
 # Store layout of process model
