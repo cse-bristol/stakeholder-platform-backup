@@ -1,8 +1,27 @@
-# Demonstrating the stakeholder engagement tool
+# Demonstrating the STEEP stakeholder engagement tool
+
+## What is an Energy Plan?
+
+An energy plan is a documented statement about the intended future development of some aspects of the energy system in a specific place, over a specific time. However, as we are discovering through the STEEP project, there are many possible interpretations of what constitutes a plan, and much complexity around the processes of creating and implementing any such plan. For example:
+
+- different geographic scales relate to different technical concerns
+- different timescales relate to different types of decision
+- different regions and countries have different regulatory and technical, and data contexts
+- different stakeholders in the process have different capacities, interests, and degrees of influence
+
+Despite all this variation, through the STEEP project and our previous experience, we identified a few statements which could be made about any energy plan:
+
+1. It is a document
+2. It needs to make specific statements about the energy system in specific places at specific times
+3. It needs to be able to relate to any geographic scale
+4. It needs to be able describe complex processes
+5. A range of different types of stakeholders may have an interest or role in its development
 
 ## What is the tool?
 
-A collaborative document editor which, in addition to text, images, videos and sound, allows the creation and inclusion of two special types of content which are considered useful in energy planning:
+
+
+We have created a collaborative document editor which, in addition to text, images, videos and sound, allows the creation and inclusion of two special types of content which are considered useful in energy planning:
 
 - process models
 - maps
@@ -19,6 +38,14 @@ CSE has designed and built this prototype as part of our contribution to the STE
 - build and share hierarchical process models with all other users
 - link relate maps, process models, text, and external resource
 - integrate all of the above in a collaboratively editable living document
+
+An energy plan is a statement about the intended future development of some aspects of the energy system in a specific place, over a specific time. However, as we are discovering through the STEEP project, there are many possible interpretations of what constitutes an energy plan, and some complexity around the processes of creating and implementing any such plan. For example:
+
+- different geographic scales relate to different technical concerns
+- different timescales relate to different types of decision
+- different regions and countries have different regulatory and technical contexts
+- different stakeholders in the process have different capacities, interests, and influence
+
 
 
 
