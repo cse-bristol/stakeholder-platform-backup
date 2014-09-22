@@ -1,0 +1,12 @@
+Write about this node here.
+
+|type|dependence|
+|-|-|
+|process|0|
+
+
+|child|necessity|sufficiency|
+|-|-|-|
+|[/models/Identifying User Type]()|0.3|0.4|
+|[/models/Reviewiung of existing Buildings ]()|0.3|0.4|
+|[/models/Knowing Demand/evidence]()|0.5|0.5|
