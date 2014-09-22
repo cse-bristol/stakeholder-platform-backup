@@ -1,0 +1,21 @@
+
+
+|layer|opacity|
+|-|-|
+|[layers/TQEZ_all_phase_heat.geojson]()|0.9|
+|[layers/all_pipe_routes.geojson]()|0.9|
+
+
+|coordinates|zoom|baseLayer|
+|-|-|-|
+|[51.448430782942474,-2.574598789215088]|15|ESRI World Imagery|
+
+
+|sort|reverse|
+|-|-|
+|Heat_2024|true|
+
+
+|selection page|
+|-|
+|[/maps/TQEZ Heat/selection]()|
