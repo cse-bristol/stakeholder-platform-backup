@@ -1,0 +1,20 @@
+
+
+|layer|opacity|
+|-|-|
+|[layers/Floodrisk2.geojson]()|0.9|
+
+
+|coordinates|zoom|baseLayer|
+|-|-|-|
+|[51.43678156744505,-2.5732040405273438]|12|Open Street Map|
+
+
+|sort|reverse|
+|-|-|
+|SHAPE_AREA|false|
+
+
+|selection page|
+|-|
+|[/maps/Flood risk/selection]()|
