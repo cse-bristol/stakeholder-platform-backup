@@ -1,0 +1,13 @@
+Write about this node here.
+
+|type|dependence|
+|-|-|
+|process|0|
+
+
+|child|necessity|sufficiency|
+|-|-|-|
+|[/models/Training of|for the TQEZ stakeholders]()|0.3|0.4|
+|[/models/Facilitating Adequate Routes]()|0.3|0.4|
+|[/models/Creating public transport hub]()|0.3|0.4|
+|[/models/Enabling/evidence]()|0.5|0.5|
