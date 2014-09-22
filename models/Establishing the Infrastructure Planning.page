@@ -1,0 +1,14 @@
+Write about this node here.
+
+|type|dependence|
+|-|-|
+|process|0|
+
+
+|child|necessity|sufficiency|
+|-|-|-|
+|[/models/Knowing Demand]()|0.3|0.4|
+|[/models/Define Infrastructure]()|0.3|0.4|
+|[/models/Obtaining Base Live Data on Stats]()|0.3|0.4|
+|[/models/Investigating the Delivery Method]()|0.3|0.4|
+|[/models/Establishing the Infrastructure Planning /evidence]()|0.5|0.5|
