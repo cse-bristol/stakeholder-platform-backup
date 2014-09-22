@@ -1,0 +1,22 @@
+
+
+|layer|opacity|
+|-|-|
+|[layers/TQEZ_agri_20km.geojson]()|0.6|
+
+
+|coordinates|zoom|baseLayer|
+|-|-|-|
+|[51.44823019014051,-2.5728607177734375]|11|ESRI World Imagery|
+
+
+|sort|reverse|
+|-|-|
+|Hectares|false|
+
+
+|selection|
+|-|
+|TQEZ_agri_20km/GRADE_1|
+|TQEZ_agri_20km/GRADE_2|
+|TQEZ_agri_20km/GRADE_3|
