@@ -1,0 +1,12 @@
+Write about this node here.
+
+|type|dependence|
+|-|-|
+|process|0|
+
+
+|child|necessity|sufficiency|
+|-|-|-|
+|[/Developing|requiring|using cideo-meeting facilities]()|0.3|0.4|
+|[/Living locally]()|0.3|0.4|
+|[/Limiting the need for mobility/evidence]()|0.5|0.5|
