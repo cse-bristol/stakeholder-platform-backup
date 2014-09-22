@@ -7,5 +7,6 @@ Write about this node here.
 
 |child|necessity|sufficiency|
 |-|-|-|
-|[/Using benchmarks based on floor area, bldg use]()|0.3|0.4|
-|[/Predicting BRegs 
+|[/models/Using benchmarks based on floor area, bldg use]()|0.3|0.4|
+|[/models/Predicting BRegs and emission standards]()|0.3|0.4|
+|[/models/Assessing heat|elec demands of future bldgs/evidence]()|0.5|0.5|
