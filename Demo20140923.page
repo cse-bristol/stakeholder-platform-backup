@@ -24,26 +24,42 @@ Based on this, we have developed a prototype for a flexible application which en
 
 - create, embed and share maps including user data, for any location and scale (a GIS), for example:
 
+Todo: add example map(s)
 
 - create, embed and share visualisations of complex processes (a Hierarchical Process Modelling tool), for example:
 
-
+Todo: add example process model from project
 
 - make links within their document, and to external resources, for example:
 
-## Some further examples...
+Todo: link to the WP1 data wiki (could then download a shapefile and add it to a map?)
+Todo: add a link from a process model node to a map
 
+## Some further examples...
 - WP 1.4 data harmonisation
+maybe add a map from the WP1 doc (segue from above)
+
 - WP 2.1 process modelling
+a couple more models from the project
+
 - WP 2.2 GIS infrastructure map
+examples from the TQEZ study (possibly multiple maps)
+- energy crops
+- unconstrained wind
+- flood risk
+- elec substations
+- PV potential
+- the heat map and new build heat demands
+- heat network routes
 
 ## Future plans
 1. improve the user interface
 2. enable export to PDF
 3. add energy modelling features
-    - solar PV and hot water
+    - solar PV and solar hot water
     - wind
     - district heating?
+4. user manual...
 
 ## How you use it
 
