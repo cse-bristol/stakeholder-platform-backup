@@ -1,0 +1,11 @@
+Write about this node here.
+
+|type|dependence|
+|-|-|
+|process|0|
+
+
+|child|necessity|sufficiency|
+|-|-|-|
+|[/models/Creating Green infratructure]()|0.3|0.4|
+|[/models/Good Urban Planning/evidence]()|0.5|0.5|
