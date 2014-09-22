@@ -45,8 +45,8 @@ Todo: add example process model from project
 
 - make links within their document, and to external resources, for example:
 
-Todo: link to the WP1 data wiki (could then download a shapefile and add it to a map?)
-Todo: add a link from a process model node to a map
+[WP1.4 - Data harmonisation](http://tools.smartsteep.eu/wiki/Main_Page)
+<iframe width="70%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/process-model/index.html?root=models%252FMoving%2520People%2520to%257Cwithin%257Cfrom%2520TQEZ"></iframe>
 
 ## Some further examples...
 - WP 1.4 data harmonisation
