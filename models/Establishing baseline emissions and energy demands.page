@@ -7,7 +7,7 @@ Write about this node here.
 
 |child|necessity|sufficiency|
 |-|-|-|
-|[/Assessing heat|elec demands of existing bldgs]()|0.3|0.4|
-|[/Assessing counterfactual grid C factors]()|0.3|0.4|
-|[/Assessing heat|elec demands of future bldgs]()|0.3|0.4|
-|[/Establishing baseline emissions and energy demands/evidence]()|0.5|0.5|
+|[/models/Assessing heat|elec demands of existing bldgs]()|0.3|0.4|
+|[/models/Assessing counterfactual grid C factors]()|0.3|0.4|
+|[/models/Assessing heat|elec demands of future bldgs]()|0.3|0.4|
+|[/models/Establishing baseline emissions and energy demands/evidence]()|0.5|0.5|
