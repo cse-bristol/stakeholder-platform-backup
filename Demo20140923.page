@@ -25,12 +25,8 @@ Based on this, we have developed a prototype for a flexible application which en
 - create, embed and share maps including user data, for any location and scale (a GIS), for example:
 
 
-[Map of Flood risk](http://wiki.smartsteep.eu/open-data-map/index.html?page=maps%252FFlood%2520risk)
-
-[Map of Unconstrained agriculture](http://wiki.smartsteep.eu/open-data-map/index.html?page=maps%252FUnconstrained%2520agriculture)
-
 <h2 style="width:49%;float:left;">[Map of Flood risk](http://wiki.smartsteep.eu/open-data-map/index.html?page=maps%252FFlood%2520risk)</h2>
-<h2 style="width:49%;float:left;">Title 2</h2>
+<h2 style="width:49%;float:left;">[Map of Unconstrained agriculture](http://wiki.smartsteep.eu/open-data-map/index.html?page=maps%252FUnconstrained%2520agriculture)</h2>
 
 <iframe width="49%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?page=maps%252FFlood%2520risk"></iframe>
 <iframe width="49%" height="480px" scrolling="no" src="http://wiki.smartsteep.eu/open-data-map/index.html?page=maps%252FUnconstrained%2520agriculture"></iframe>
