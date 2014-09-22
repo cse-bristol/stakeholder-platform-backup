@@ -7,4 +7,6 @@ Write about this node here.
 
 |child|necessity|sufficiency|
 |-|-|-|
-|[/Using tools 
+|[/models/Using tools and benchmarks e.g. heat map, floor area, etc]()|0.3|0.4|
+|[/models/Using actual energy consumption data]()|0.3|0.4|
+|[/models/Assessing heat|elec demands of existing bldgs/evidence]()|0.5|0.5|
